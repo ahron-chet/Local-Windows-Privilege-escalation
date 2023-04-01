@@ -1,13 +1,7 @@
 # Windows Privilege Escalation PoC Exploit
-##### A tool that demonstrates a privilege escalation attack on Windows, allowing a normal user to escalate to SYSTEM NT AUTHORITY privileges.
+#### A tool that demonstrates a privilege escalation attack on Windows, allowing a normal user to escalate to SYSTEM NT AUTHORITY privileges.
 
-### Table of Contents
-- Overview
-- Features
-- Requirements
-- Usage
-- Disclaimer
-- Overview
+
 This exploit consists of the following stages:
 
 - Load a DLL containing the shellcode.
