@@ -1,0 +1,14 @@
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\bin\Release\PrivEsc.exe.config
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\bin\Release\PrivEsc.exe
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\bin\Release\PrivEsc.pdb
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\obj\Release\PrivEsc.csproj.CoreCompileInputs.cache
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\obj\Release\PrivEsc.exe
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\obj\Release\PrivEsc.pdb
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\obj\Release\PrivEsc.csproj.AssemblyReference.cache
+C:\Users\aronc\Desktop\MalwareTesting\LocalPrivEsc\PrivEsc\PrivEsc\bin\Release\PrivEsc.exe.config
+C:\Users\aronc\Desktop\MalwareTesting\LocalPrivEsc\PrivEsc\PrivEsc\bin\Release\PrivEsc.exe
+C:\Users\aronc\Desktop\MalwareTesting\LocalPrivEsc\PrivEsc\PrivEsc\bin\Release\PrivEsc.pdb
+C:\Users\aronc\Desktop\MalwareTesting\LocalPrivEsc\PrivEsc\PrivEsc\obj\Release\PrivEsc.csproj.AssemblyReference.cache
+C:\Users\aronc\Desktop\MalwareTesting\LocalPrivEsc\PrivEsc\PrivEsc\obj\Release\PrivEsc.csproj.CoreCompileInputs.cache
+C:\Users\aronc\Desktop\MalwareTesting\LocalPrivEsc\PrivEsc\PrivEsc\obj\Release\PrivEsc.exe
+C:\Users\aronc\Desktop\MalwareTesting\LocalPrivEsc\PrivEsc\PrivEsc\obj\Release\PrivEsc.pdb

@@ -1,0 +1,7 @@
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\bin\Debug\PrivEsc.exe.config
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\bin\Debug\PrivEsc.exe
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\bin\Debug\PrivEsc.pdb
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\obj\Debug\PrivEsc.csproj.AssemblyReference.cache
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\obj\Debug\PrivEsc.csproj.CoreCompileInputs.cache
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\obj\Debug\PrivEsc.exe
+C:\Users\aronc\Desktop\MalwareTesting\PrivEsc\PrivEsc\obj\Debug\PrivEsc.pdb
