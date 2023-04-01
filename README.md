@@ -23,8 +23,7 @@ This program combines various techniques to demonstrate a successful privilege e
 ### Usage
 - Download the source code or precompiled binaries.
 - Open a command prompt or PowerShell with normal user privileges.
-Run the program with the following command:
-- TestPrivEsc.exe
-The program will execute the privilege escalation attack, and if successful, you will be presented with a C# shell with SYSTEM NT AUTHORITY privileges.
+Run the program with the following command: "TestPrivEsc.exe"
+- The program will execute the privilege escalation attack, and if successful, you will be presented with a C# shell with SYSTEM NT AUTHORITY privileges.
 ### Disclaimer
 This project is intended for educational and research purposes only. The authors of this project are not responsible for any misuse of the provided code or any consequences resulting from its usage. Use at your own risk.
