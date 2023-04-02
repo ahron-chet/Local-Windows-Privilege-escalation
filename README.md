@@ -1,4 +1,4 @@
-# Windows Privilege Escalation PoC Exploit
+# Windows Privilege Escalation Exploit
 #### A tool that demonstrates a privilege escalation attack on Windows, allowing a normal user to escalate to SYSTEM NT AUTHORITY privileges.
 
 
