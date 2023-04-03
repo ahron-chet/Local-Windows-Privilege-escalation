@@ -7,7 +7,7 @@ This exploit consists of the following stages:
 - Load a DLL containing the shellcode.
 - Inject the shellcode into Notepad, which runs with high privileges to respond to PPL (Protected Process Light).
 - Establish an internal C# shell using a memory-mapped file for communication.
-- Execute commands read from the memory space of the file TESTPRIVESC by the injected shellcode.
+- Execute commands read from the memory space of the file TestPrivEsc.exe by the injected shellcode.
 - Share the output of the commands in the shellcode's memory space for further processing.
 ### Features
 This program combines various techniques to demonstrate a successful privilege escalation attack, including:
