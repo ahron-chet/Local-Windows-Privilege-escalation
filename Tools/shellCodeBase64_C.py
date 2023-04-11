@@ -1,5 +1,5 @@
 def getBaseChunks(baseString):
-    p1 = """const char *chunks[] = {
+    p1 = """const char *chunks[] = { 
     """
     p2="""\n};\nstd::string base64_encoded;\nfor (const auto& chunk : chunks) {\n\tbase64_encoded += chunk;\n}\n"""
     test = ''
